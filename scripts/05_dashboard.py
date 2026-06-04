@@ -57,6 +57,9 @@ def load_data():
     cust  = pd.read_csv(os.path.join(CLEAN, "top_customers.csv"))
     ar    = pd.read_csv(os.path.join(CLEAN, "accounts_receivable_clean.csv"))
     gl    = pd.read_csv(os.path.join(CLEAN, "general_ledger_clean.csv"))
+    # Normalize to lowercase — the cleaning script saves title-case columns
+    ar.columns = ar.columns.str.lower()
+    gl.columns = gl.columns.str.lower()
     return rev, mom, cf, aging, exp, cust, ar, gl
 
 rev, mom, cf, aging, exp, cust, ar, gl = load_data()
