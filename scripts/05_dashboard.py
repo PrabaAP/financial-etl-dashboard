@@ -28,6 +28,11 @@ import plotly.graph_objects as go
 import os
 import re
 
+# ── Theme-safe chart defaults (transparent = inherits Streamlit dark/light) ──
+CHART_BG   = "rgba(0,0,0,0)"          # transparent — adapts to dark & light mode
+GRID_COLOR = "rgba(128,128,128,0.15)" # subtle gridlines in both modes
+AXIS_STYLE = dict(gridcolor=GRID_COLOR, zerolinecolor=GRID_COLOR)
+
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Financial ETL Dashboard",
@@ -485,7 +490,9 @@ with col1:
         fig = px.bar(rev_df, x="month", y="total_revenue",
                      labels={"month": "Month", "total_revenue": "Revenue"},
                      color_discrete_sequence=["#2563EB"], text_auto=".2s")
-        fig.update_layout(plot_bgcolor="white", xaxis_tickangle=-45)
+        fig.update_layout(plot_bgcolor=CHART_BG, paper_bgcolor=CHART_BG,
+                          xaxis={**AXIS_STYLE, "tickangle": -45}, yaxis=AXIS_STYLE)
+        fig.update_traces(textfont_size=12)
         st.plotly_chart(fig, use_container_width=True)
 
 with col2:
@@ -501,9 +508,13 @@ with col2:
             marker_color=colors, name="MoM Variance",
             text=[f"{v:+,.0f}" for v in clean_mom["mom_variance"]],
             textposition="outside",
+            textfont=dict(size=12),
         ))
-        fig.update_layout(plot_bgcolor="white", xaxis_tickangle=-45,
-                          yaxis_title="Variance", xaxis_title="Month")
+        fig.update_layout(
+            plot_bgcolor=CHART_BG, paper_bgcolor=CHART_BG,
+            xaxis={**AXIS_STYLE, "tickangle": -45, "title": "Month"},
+            yaxis={**AXIS_STYLE, "title": "Variance"},
+        )
         st.plotly_chart(fig, use_container_width=True)
 
 # ── ROW 2: Cash Flow  |  AR Aging ────────────────────────────────────────────
@@ -519,8 +530,12 @@ with col3:
                              mode="lines", name="3-Month Rolling Avg",
                              line=dict(color="#F59E0B", width=2, dash="dash")))
     fig.add_hline(y=0, line_dash="dot", line_color="red", opacity=0.4)
-    fig.update_layout(plot_bgcolor="white", xaxis_tickangle=-45,
-                      legend=dict(orientation="h", yanchor="bottom", y=1.02))
+    fig.update_layout(
+        plot_bgcolor=CHART_BG, paper_bgcolor=CHART_BG,
+        xaxis={**AXIS_STYLE, "tickangle": -45},
+        yaxis=AXIS_STYLE,
+        legend=dict(orientation="h", yanchor="bottom", y=1.02),
+    )
     st.plotly_chart(fig, use_container_width=True)
 
 with col4:
@@ -534,7 +549,9 @@ with col4:
                      orientation="h",
                      labels={"total_outstanding": "Outstanding", "aging_bucket": "Aging"},
                      color="aging_bucket", color_discrete_map=color_map, text_auto=".2s")
-        fig.update_layout(plot_bgcolor="white", showlegend=False)
+        fig.update_layout(plot_bgcolor=CHART_BG, paper_bgcolor=CHART_BG,
+                          showlegend=False, xaxis=AXIS_STYLE, yaxis=AXIS_STYLE)
+        fig.update_traces(textfont_size=12)
         st.plotly_chart(fig, use_container_width=True)
 
 # ── ROW 3: Expense Breakdown  |  Top Customers ───────────────────────────────
@@ -548,8 +565,11 @@ with col5:
         fig = px.bar(exp_df, x="month", y="total_expense", color="account_name",
                      labels={"month": "Month", "total_expense": "Expense", "account_name": "Category"},
                      barmode="stack")
-        fig.update_layout(plot_bgcolor="white", xaxis_tickangle=-45,
-                          legend=dict(orientation="h", yanchor="bottom", y=1.02))
+        fig.update_layout(
+            plot_bgcolor=CHART_BG, paper_bgcolor=CHART_BG,
+            xaxis={**AXIS_STYLE, "tickangle": -45}, yaxis=AXIS_STYLE,
+            legend=dict(orientation="h", yanchor="bottom", y=1.02),
+        )
         st.plotly_chart(fig, use_container_width=True)
 
 with col6:
