@@ -1,0 +1,81 @@
+Invoice_Date,Invoice_Number,Customer_Name,Amount_Due,Amount_Paid,Due_Date,Status,Notes
+,INV-2023,Bytown Manufacturing,"$15,766.63",15766,14-Jul-2024,Paid,Follow up
+,INV-2044,Capital City Lawyers,6898,3288.66,"April 16, 2024",Partial,  
+2024-09-30,INV-2062,Bytown Manufacturing,7505,7505.56,,PAID,  
+03/10/2024,INV-2001,Northern Lights Retail,"9,314.83",,,OVERDUE,
+,,MAPLE LEAF CONSULTING,11277.68,,27/08/2024,Open,  
+2024-05-13,INV-2039,Gatineau Services,5092.66,"5,092.66",,PAID,FOLLOW UP
+03/03/2024,,Bytown Manufacturing Inc,"15,945.28",15945,"April 02, 2024",Paid,Follow up
+2024-01-20,INV-2035,Capital City Lawyers LLP,6318,,19-Feb-2024,OPEN,Disputed
+12/24/2024,INV-2047,Bytown Manufacturing,11052.69,,2025-01-23,Open,  
+"July 31, 2024",INV-2012,Gatineau Services,"9,556.62","9,556.62",14/09/2024,paid,Follow up
+2024-11-13,INV-2071,maple leaf consulting,"5,422.15",5422,12/01/2025,paid,Disputed
+2024-10-10,INV-2064,Northern Lights Retail,"$11,793.29",,09/12/2024,Overdue,Disputed
+20/12/2024,INV-2040,NorthernLights Retail,"1,711.42",,,OPEN,
+25/10/2024,INV-2016,Capital City Lawyers LLP,1448,"1,448.83","December 09, 2024",PAID,
+03/30/2024,INV-2034,NorthernLights Retail,17703,,14-May-2024,open,FOLLOW UP
+"July 20, 2024",INV-2019,MAPLE LEAF CONSULTING,"$16,000.50",16000,"September 03, 2024",paid,
+"February 04, 2024",INV-2052,Maple Leaf Consulting,"$12,081.91",,,OVERDUE,
+2024-05-05,INV-2065,Bytown Manufacturing,11237,11237,19-Jun-2024,paid,FOLLOW UP
+,INV-2030,Rideau Tech Solutions,"18,518.19","18,518.19",26-Mar-2024,PAID,
+,INV-2055,Bytown Manufacturing Inc,17654,,12/11/2024,open,FOLLOW UP
+27-Mar-2024,INV-2066,Bytown Manufacturing Inc,14546.11,,"April 26, 2024",OVERDUE,
+,INV-2032,Maple Leaf Consulting,"$14,488.48",,13/09/2024,OPEN,  
+2024-09-04,INV-2011,Gatineau Services,16191.42,,04-Oct-2024,Overdue,  
+,,,,,,,
+2024-10-20,INV-2029,MAPLE LEAF CONSULTING,"11,092.22",,12/19/2024,Overdue,FOLLOW UP
+2024-08-27,INV-2036,Bytown Manufacturing,"4,259.82",,,OPEN,Follow up
+,INV-2025,Gatineau Services,"$8,502.36",,"January 18, 2025",OVERDUE,Follow up
+17-Jan-2024,,Northern Lights Retail,18990,,17-Mar-2024,OPEN,  
+29/01/2024,INV-2045,Bytown Manufacturing Inc,3072,,,Overdue,FOLLOW UP
+"September 29, 2024",INV-2069,Bytown Manufacturing Inc,"8,521.10",,11/28/2024,Open,Disputed
+2024-09-01,INV-2033,Maple Leaf Consulting,4389.39,"$4,389.39","October 31, 2024",PAID,
+23/11/2024,INV-2006,Maple Leaf Consulting,4048.28,,"January 22, 2025",open,Follow up
+,INV-2054,NorthernLights Retail,"5,119.63",,2025-01-24,open,
+28-Sep-2024,INV-2058,maple leaf consulting,8074,"8,074.17",10/28/2024,PAID,Disputed
+2024-04-05,INV-2000,Rideau Tech Solutions,"10,596.03",3677,20-May-2024,Partial,
+19/10/2024,INV-2010,Bytown Manufacturing Inc,"12,553.11",,,Open,FOLLOW UP
+03/05/2024,INV-2057,Bytown Manufacturing Inc,6364,,02/06/2024,open,Disputed
+,,,,,,,
+,INV-2050,NorthernLights Retail,19580,,01-Feb-2024,OVERDUE,Follow up
+03/10/2024,INV-2001,Northern Lights Retail,"9,314.83",,,OVERDUE,
+"March 24, 2024",INV-2021,Bytown Manufacturing Inc,19817,"19,817.01",08/05/2024,PAID,
+24/01/2024,INV-2020,MAPLE LEAF CONSULTING,"$3,172.21","3,172.21","February 23, 2024",paid,FOLLOW UP
+11/11/2024,INV-2031,Bytown Manufacturing Inc,"$11,943.19","$11,943.19",01/10/2025,Paid,
+"July 07, 2024",INV-2022,Gatineau Services,13639.22,,"August 21, 2024",Overdue,  
+,INV-2032,Maple Leaf Consulting,"$14,488.48",,13/09/2024,OPEN,  
+,INV-2072,Capital City Lawyers LLP,4904.22,,07/03/2024,OPEN,  
+2024-05-27,INV-2028,Bytown Manufacturing Inc,"4,541.92",,2024-07-26,OVERDUE,
+01/05/2024,INV-2068,Capital City Lawyers LLP,10361,10361,02/04/2024,paid,
+02/11/2024,INV-2043,maple leaf consulting,9211.59,"$9,211.59","April 11, 2024",paid,Disputed
+,INV-2017,NorthernLights Retail,"3,111.73",3111.73,10/04/2024,PAID,
+,INV-2046,maple leaf consulting,5461.92,,26/02/2024,Open,FOLLOW UP
+"January 08, 2024",INV-2037,Rideau Tech Solutions,"$7,073.69",7073,08/03/2024,PAID,Disputed
+2024-08-27,INV-2036,Bytown Manufacturing,"4,259.82",,,OPEN,Follow up
+16-Jun-2024,INV-2038,Bytown Manufacturing,"8,316.25",,16-Jul-2024,OPEN,
+08-Oct-2024,INV-2002,Gatineau Services,"$6,162.06","6,162.06","December 07, 2024",PAID,Follow up
+"October 14, 2024",INV-2026,MAPLE LEAF CONSULTING,19963,,"November 28, 2024",OVERDUE,FOLLOW UP
+23-Nov-2024,INV-2041,Bytown Manufacturing,"$7,667.11",7667,,Paid,Disputed
+"July 10, 2024",INV-2042,Rideau Tech Solutions,"$14,187.84",,,OVERDUE,Disputed
+2024-06-04,INV-2007,Bytown Manufacturing Inc,"3,658.36",3658.36,2024-07-04,Paid,Follow up
+"November 26, 2024",INV-2074,Rideau Tech Solutions,"$11,534.20",,,OPEN,Disputed
+07/24/2024,INV-2053,Rideau Tech Solutions Ltd.,"$5,069.62","5,069.62","September 07, 2024",Paid,Disputed
+,INV-2004,Bytown Manufacturing Inc,1782,,09/12/2024,Overdue,Disputed
+,INV-2051,Maple Leaf Consulting,3524,3524.87,07-Oct-2024,Paid,Follow up
+12/23/2024,INV-2070,Bytown Manufacturing Inc,"$8,896.18",,21-Feb-2025,open,Follow up
+25/11/2024,INV-2056,Rideau Tech Solutions Ltd.,7932,"$3,391.10","January 24, 2025",Partial,  
+26-Jan-2024,INV-2014,MAPLE LEAF CONSULTING,"18,935.01",,"March 11, 2024",Overdue,FOLLOW UP
+18/10/2024,INV-2018,Bytown Manufacturing Inc,"4,295.78",1784.64,17-Dec-2024,Partial,
+04/07/2024,INV-2059,Capital City Lawyers,"$5,735.00",,07/05/2024,Open,Follow up
+2024-04-07,INV-2015,maple leaf consulting,10216,4972,07-May-2024,Partial,Follow up
+04/05/2024,INV-2061,Bytown Manufacturing Inc,"12,285.83","12,285.83",03/07/2024,Paid,  
+11/05/2024,INV-2009,Capital City Lawyers LLP,"16,929.34",,,Open,Follow up
+08-Jul-2024,INV-2013,Rideau Tech Solutions Ltd.,11452,"$11,452.20",06-Sep-2024,paid,
+"October 06, 2024",INV-2027,Rideau Tech Solutions,"13,679.44","13,679.44",20-Nov-2024,PAID,FOLLOW UP
+2024-02-11,INV-2049,Bytown Manufacturing Inc,19300,"$6,816.97",,Partial,Follow up
+19-Jun-2024,INV-2060,Gatineau Services,19161.89,,,Open,  
+2024-04-02,INV-2048,NorthernLights Retail,15433,,02/05/2024,Overdue,  
+06/12/2024,INV-2063,Rideau Tech Solutions,"$7,728.75",,07/12/2024,Overdue,FOLLOW UP
+"November 21, 2024",INV-2008,Bytown Manufacturing Inc,"$5,851.80","$5,851.80",20-Jan-2025,PAID,Disputed
+07/02/2024,INV-2005,Bytown Manufacturing Inc,"19,461.40",,08-Mar-2024,OPEN,Disputed
+08/02/2024,INV-2067,Capital City Lawyers LLP,"$1,446.03",,04/08/2024,Open,Follow up

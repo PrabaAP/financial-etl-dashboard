@@ -1,0 +1,159 @@
+Date,Transaction_ID,Account_Code,Account_Name,Description,Debit,Credit,Department,Notes,Net_Amount
+2024-06-15,TXN-1086,4000,Revenue - Consulting,Consulting Fees Billed,0.0,4463.95,Sales,Pending Review,4463.95
+2024-08-19,TXN-1120,4100,Revenue - Retainer,Office Supply Purchase,0.0,9808.74,Operations,Approved,9808.74
+2024-02-12,TXN-1022,5400,Office Supplies,Monthly Office Rent,8727.93,0.0,Finance,Approved,-8727.93
+2024-01-22,TXN-1011,5000,Salaries Expense,Monthly Office Rent,3445.95,0.0,Finance,Approved,-3445.95
+2024-01-04,TXN-1002,5400,Office Supplies,Retainer Fee - Q1,4317.22,0.0,Sales,Approved,-4317.22
+2024-08-21,TXN-1121,5300,Marketing Expense,Client Invoice Payment Received,2207.83,0.0,Admin,Pending Review,-2207.83
+2024-06-30,TXN-1094,5300,Marketing Expense,Client Invoice Payment Received,12408.92,0.0,Sales,Approved,-12408.92
+2024-05-07,TXN-1066,1100,Accounts Receivable,Payroll Run,8546.75,0.0,Operations,Approved,-8546.75
+2024-01-05,TXN-1063,2000,Accounts Payable,Consulting Fees Billed,944.0,0.0,Sales,Approved,-944.0
+2024-07-27,TXN-1108,5000,Salaries Expense,Payroll Run,6574.16,0.0,Sales,Approved,-6574.16
+2024-09-23,TXN-1138,5200,Software Subscriptions,Google Ads Campaign,3518.82,0.0,Operations,Approved,-3518.82
+2024-05-05,TXN-1065,1000,Cash And Bank,Payroll Run,11362.65,0.0,Finance,Approved,-11362.65
+2024-12-29,,5000,Salaries Expense,Office Supply Purchase,5559.83,0.0,Sales,Approved,-5559.83
+2024-10-26,TXN-1155,4100,Revenue - Retainer,Office Supply Purchase,0.0,8953.01,Operations,Approved,8953.01
+2024-02-16,TXN-1024,5000,Salaries Expense,Office Supply Purchase,12048.77,0.0,Admin,Approved,-12048.77
+2024-07-10,TXN-1099,5100,Rent Expense,Google Ads Campaign,3021.0,0.0,Sales,,-3021.0
+2024-09-25,TXN-1139,5300,Marketing Expense,Consulting Fees Billed,14623.29,0.0,Operations,Approved,-14623.29
+2024-10-03,TXN-1143,2000,Accounts Payable,Consulting Fees Billed,11365.0,0.0,Admin,,-11365.0
+2024-05-22,TXN-1074,5100,Rent Expense,Client Invoice Payment Received,7430.95,0.0,Sales,Approved,-7430.95
+2024-12-25,TXN-1186,5400,Office Supplies,Consulting Fees Billed,14972.0,0.0,Sales,,-14972.0
+2024-11-22,TXN-1169,1100,Accounts Receivable,Monthly Office Rent,4418.93,0.0,Operations,Approved,-4418.93
+2024-07-14,TXN-1101,5300,Marketing Expense,Client Invoice Payment Received,11490.52,0.0,Sales,Approved,-11490.52
+2024-07-29,TXN-1109,5400,Office Supplies,Office Supply Purchase,10310.39,0.0,Admin,Approved,-10310.39
+2024-12-07,TXN-1177,1000,Cash And Bank,Monthly Office Rent,9607.93,0.0,Finance,Pending Review,-9607.93
+2024-04-20,TXN-1057,1100,Accounts Receivable,Monthly Office Rent,10760.46,0.0,Finance,Approved,-10760.46
+2024-07-23,TXN-1106,1000,Cash And Bank,Client Invoice Payment Received,9338.4,0.0,Admin,,-9338.4
+2024-04-11,TXN-1160,1100,Accounts Receivable,Monthly Office Rent,8457.86,0.0,Sales,Approved,-8457.86
+2024-08-27,TXN-1124,4100,Revenue - Retainer,Consulting Fees Billed,0.0,3009.17,Finance,Pending Review,3009.17
+2024-06-13,TXN-1085,2000,Accounts Payable,Office Supply Purchase,3750.0,0.0,Sales,,-3750.0
+2024-08-31,TXN-1126,4000,Revenue - Consulting,Client Invoice Payment Received,0.0,8878.47,Operations,Approved,8878.47
+2024-12-19,TXN-1183,5200,Software Subscriptions,Client Invoice Payment Received,10442.0,0.0,Operations,Approved,-10442.0
+2024-06-03,TXN-1080,5200,Software Subscriptions,Office Supply Purchase,1718.3,0.0,Finance,,-1718.3
+2024-08-12,TXN-1116,2000,Accounts Payable,Google Ads Campaign,11840.0,0.0,Operations,Approved,-11840.0
+2024-09-06,TXN-1129,5200,Software Subscriptions,Bank Charges,6834.47,0.0,Sales,,-6834.47
+2024-09-04,TXN-1128,5400,Office Supplies,Retainer Fee - Q1,4991.82,0.0,Finance,,-4991.82
+2024-04-25,TXN-1060,4100,Revenue - Retainer,Software Licence Renewal,0.0,11351.43,Admin,Approved,11351.43
+2024-08-23,TXN-1122,1100,Accounts Receivable,Client Invoice Payment Received,12538.66,0.0,Finance,Approved,-12538.66
+2024-02-22,TXN-1027,4100,Revenue - Retainer,Software Licence Renewal,0.0,13912.47,Finance,,13912.47
+2024-03-18,TXN-1040,5000,Salaries Expense,Payroll Run,11745.72,0.0,Admin,,-11745.72
+2024-03-27,TXN-1045,1000,Cash And Bank,Tax Remittance,1804.36,0.0,Admin,,-1804.36
+2024-02-29,TXN-1031,5400,Office Supplies,Google Ads Campaign,7937.0,0.0,Finance,Pending Review,-7937.0
+2024-03-02,,4100,Revenue - Retainer,Bank Charges,0.0,6966.92,Sales,Approved,6966.92
+2024-01-26,TXN-1013,1100,Accounts Receivable,Google Ads Campaign,10289.0,0.0,Finance,Approved,-10289.0
+2024-08-13,TXN-1117,5000,Salaries Expense,Consulting Fees Billed,12102.0,0.0,Operations,,-12102.0
+2024-05-30,TXN-1078,5400,Office Supplies,Google Ads Campaign,14653.78,0.0,Sales,Approved,-14653.78
+2024-09-09,TXN-1131,5200,Software Subscriptions,Tax Remittance,10743.54,0.0,Operations,Approved,-10743.54
+2024-02-24,TXN-1028,5400,Office Supplies,Tax Remittance,11088.0,0.0,Sales,,-11088.0
+2024-02-04,TXN-1018,4100,Revenue - Retainer,Client Invoice Payment Received,0.0,8009.57,Finance,Approved,8009.57
+2024-07-06,TXN-1097,5300,Marketing Expense,Monthly Office Rent,6238.26,0.0,Admin,Pending Review,-6238.26
+2024-06-18,TXN-1088,1100,Accounts Receivable,Monthly Office Rent,1082.0,0.0,Finance,Approved,-1082.0
+2024-10-14,,5100,Rent Expense,Tax Remittance,4484.0,0.0,Operations,Pending Review,-4484.0
+2024-03-10,TXN-1036,4100,Revenue - Retainer,Consulting Fees Billed,0.0,7680.0,Operations,Approved,7680.0
+2024-08-04,TXN-1112,5400,Office Supplies,Consulting Fees Billed,5512.0,0.0,Sales,,-5512.0
+2024-12-17,TXN-1182,5000,Salaries Expense,Office Supply Purchase,4243.0,0.0,Sales,Approved,-4243.0
+2024-04-08,TXN-1051,5400,Office Supplies,Payroll Run,5160.79,0.0,Operations,Approved,-5160.79
+2024-12-21,TXN-1184,5400,Office Supplies,Monthly Office Rent,14927.45,0.0,Finance,Approved,-14927.45
+2024-09-27,TXN-1140,4100,Revenue - Retainer,Payroll Run,0.0,10599.94,Sales,Pending Review,10599.94
+2024-06-07,TXN-1082,1000,Cash And Bank,Monthly Office Rent,2445.0,0.0,Sales,,-2445.0
+2024-03-12,TXN-1037,1000,Cash And Bank,Client Invoice Payment Received,252.0,0.0,Sales,Pending Review,-252.0
+2024-09-11,TXN-1132,4100,Revenue - Retainer,Tax Remittance,0.0,9439.9,Admin,,9439.9
+2024-07-15,,4000,Revenue - Consulting,Retainer Fee - Q1,0.0,12868.0,Finance,Pending Review,12868.0
+2024-07-08,TXN-1098,4100,Revenue - Retainer,Software Licence Renewal,0.0,7731.0,Sales,Approved,7731.0
+2024-04-04,TXN-1049,4100,Revenue - Retainer,Tax Remittance,0.0,6209.91,Admin,Approved,6209.91
+2024-01-10,TXN-1005,5400,Office Supplies,Consulting Fees Billed,13304.69,0.0,Operations,Approved,-13304.69
+2024-02-02,TXN-1017,1100,Accounts Receivable,Consulting Fees Billed,11032.0,0.0,Sales,Approved,-11032.0
+2024-11-01,TXN-1158,5300,Marketing Expense,Bank Charges,9762.68,0.0,Sales,Approved,-9762.68
+2024-11-20,TXN-1168,5400,Office Supplies,Bank Charges,2248.3,0.0,Finance,,-2248.3
+2024-05-06,TXN-1081,4100,Revenue - Retainer,Office Supply Purchase,0.0,14127.74,Sales,Pending Review,14127.74
+2024-04-29,TXN-1062,5300,Marketing Expense,Consulting Fees Billed,599.0,0.0,Finance,Approved,-599.0
+2024-03-05,,4100,Revenue - Retainer,Software Licence Renewal,0.0,12556.68,Operations,Pending Review,12556.68
+2024-02-20,TXN-1026,2000,Accounts Payable,Payroll Run,6214.0,0.0,Operations,Approved,-6214.0
+2024-12-10,TXN-1148,1000,Cash And Bank,Retainer Fee - Q1,6656.0,0.0,Finance,Pending Review,-6656.0
+2024-03-20,TXN-1041,2000,Accounts Payable,Client Invoice Payment Received,11101.15,0.0,Sales,Approved,-11101.15
+2024-04-10,TXN-1052,5200,Software Subscriptions,Client Invoice Payment Received,9246.0,0.0,Admin,Approved,-9246.0
+2024-06-24,TXN-1091,5200,Software Subscriptions,Retainer Fee - Q1,7880.0,0.0,Operations,Approved,-7880.0
+2024-11-30,TXN-1173,5300,Marketing Expense,Software Licence Renewal,14115.34,0.0,Operations,,-14115.34
+2024-10-16,TXN-1150,5000,Salaries Expense,Monthly Office Rent,1504.0,0.0,Operations,Approved,-1504.0
+2024-05-15,TXN-1070,5200,Software Subscriptions,Bank Charges,10668.0,0.0,Admin,Approved,-10668.0
+2024-11-16,TXN-1166,4000,Revenue - Consulting,Bank Charges,0.0,14549.91,Sales,Approved,14549.91
+2024-02-08,TXN-1111,5100,Rent Expense,Office Supply Purchase,10416.64,0.0,Finance,Approved,-10416.64
+2024-01-16,TXN-1008,4000,Revenue - Consulting,Consulting Fees Billed,0.0,2618.36,Finance,,2618.36
+2024-07-19,TXN-1104,1000,Cash And Bank,Office Supply Purchase,10892.17,0.0,Sales,,-10892.17
+2024-06-01,TXN-1079,4100,Revenue - Retainer,Bank Charges,0.0,409.4,Finance,Approved,409.4
+2024-08-29,TXN-1125,5400,Office Supplies,Tax Remittance,14572.18,0.0,Operations,,-14572.18
+2024-02-26,TXN-1029,2000,Accounts Payable,Tax Remittance,1041.82,0.0,Finance,Approved,-1041.82
+2024-01-06,TXN-1003,4000,Revenue - Consulting,Consulting Fees Billed,0.0,14366.75,Sales,Approved,14366.75
+2024-03-16,TXN-1039,2000,Accounts Payable,Software Licence Renewal,6560.84,0.0,Finance,,-6560.84
+2024-04-06,TXN-1050,5200,Software Subscriptions,Monthly Office Rent,10199.28,0.0,Sales,Pending Review,-10199.28
+2024-05-28,TXN-1077,5000,Salaries Expense,Software Licence Renewal,1969.0,0.0,Sales,Pending Review,-1969.0
+2024-10-11,TXN-1163,5000,Salaries Expense,Monthly Office Rent,14225.49,0.0,Operations,,-14225.49
+2024-04-14,TXN-1054,5300,Marketing Expense,Payroll Run,7075.0,0.0,Finance,,-7075.0
+2024-06-22,TXN-1090,5000,Salaries Expense,Google Ads Campaign,9134.96,0.0,Operations,Approved,-9134.96
+2024-03-24,TXN-1043,4000,Revenue - Consulting,Google Ads Campaign,0.0,550.23,Finance,,550.23
+2024-11-03,TXN-1159,4100,Revenue - Retainer,Consulting Fees Billed,0.0,5933.77,Operations,Approved,5933.77
+2024-04-02,TXN-1048,4100,Revenue - Retainer,Client Invoice Payment Received,0.0,8405.3,Sales,,8405.3
+2024-11-24,TXN-1170,5000,Salaries Expense,Retainer Fee - Q1,13970.98,0.0,Sales,Approved,-13970.98
+2024-04-23,TXN-1059,4000,Revenue - Consulting,Retainer Fee - Q1,0.0,12526.0,Operations,Approved,12526.0
+2024-01-29,TXN-1015,5300,Marketing Expense,Bank Charges,9212.76,0.0,Sales,Approved,-9212.76
+2024-02-08,TXN-1020,1000,Cash And Bank,Client Invoice Payment Received,8906.97,0.0,Finance,,-8906.97
+2024-12-27,TXN-1187,2000,Accounts Payable,Payroll Run,14301.28,0.0,Finance,Pending Review,-14301.28
+2024-01-18,TXN-1009,5000,Salaries Expense,Consulting Fees Billed,6137.0,0.0,Admin,Pending Review,-6137.0
+2024-07-21,TXN-1105,5100,Rent Expense,Consulting Fees Billed,9817.0,0.0,Operations,,-9817.0
+2024-10-30,TXN-1157,4000,Revenue - Consulting,Monthly Office Rent,0.0,4958.6,Finance,,4958.6
+2024-01-24,TXN-1012,5100,Rent Expense,Google Ads Campaign,9026.85,0.0,Finance,Pending Review,-9026.85
+2024-01-31,TXN-1016,5200,Software Subscriptions,Client Invoice Payment Received,488.26,0.0,Sales,,-488.26
+2024-03-31,TXN-1047,5400,Office Supplies,Google Ads Campaign,4845.0,0.0,Sales,Approved,-4845.0
+2024-10-10,TXN-1147,5100,Rent Expense,Bank Charges,2800.28,0.0,Operations,Approved,-2800.28
+2024-08-17,TXN-1119,5000,Salaries Expense,Software Licence Renewal,1803.52,0.0,Finance,Approved,-1803.52
+2024-02-10,TXN-1021,1000,Cash And Bank,Office Supply Purchase,12922.6,0.0,Sales,Approved,-12922.6
+2024-12-15,TXN-1181,5300,Marketing Expense,Consulting Fees Billed,7206.32,0.0,Operations,Pending Review,-7206.32
+2024-05-20,TXN-1073,4100,Revenue - Retainer,Client Invoice Payment Received,0.0,5237.01,Operations,Approved,5237.01
+2024-02-27,TXN-1030,5100,Rent Expense,Monthly Office Rent,1974.0,0.0,Finance,,-1974.0
+2024-10-08,TXN-1146,4100,Revenue - Retainer,Monthly Office Rent,0.0,14190.8,Admin,Pending Review,14190.8
+2024-03-04,TXN-1033,2000,Accounts Payable,Payroll Run,14012.0,0.0,Operations,,-14012.0
+2024-12-02,TXN-1174,4000,Revenue - Consulting,Tax Remittance,0.0,6413.42,Finance,,6413.42
+2024-08-25,TXN-1123,5200,Software Subscriptions,Consulting Fees Billed,14268.22,0.0,Operations,Approved,-14268.22
+2024-07-12,TXN-1100,4100,Revenue - Retainer,Office Supply Purchase,0.0,12344.0,Sales,Approved,12344.0
+2024-10-28,TXN-1156,4100,Revenue - Retainer,Tax Remittance,0.0,1335.62,Admin,,1335.62
+2024-12-13,,5200,Software Subscriptions,Consulting Fees Billed,747.36,0.0,Sales,Approved,-747.36
+2024-03-08,TXN-1035,1100,Accounts Receivable,Consulting Fees Billed,11187.77,0.0,Finance,Pending Review,-11187.77
+2024-01-20,TXN-1010,5200,Software Subscriptions,Tax Remittance,2314.0,0.0,Sales,Approved,-2314.0
+2024-05-17,TXN-1071,5400,Office Supplies,Office Supply Purchase,4172.25,0.0,Operations,Approved,-4172.25
+2024-06-28,,5100,Rent Expense,Google Ads Campaign,12240.78,0.0,Operations,Approved,-12240.78
+2024-08-15,,5000,Salaries Expense,Consulting Fees Billed,1536.48,0.0,Sales,Approved,-1536.48
+2024-10-05,TXN-1144,5200,Software Subscriptions,Retainer Fee - Q1,6329.92,0.0,Sales,Pending Review,-6329.92
+2024-01-02,TXN-1001,1000,Cash And Bank,Software Licence Renewal,641.0,0.0,Finance,Approved,-641.0
+2024-06-09,TXN-1083,5400,Office Supplies,Tax Remittance,3540.0,0.0,Sales,,-3540.0
+2024-12-31,TXN-1189,1100,Accounts Receivable,Google Ads Campaign,8694.04,0.0,Operations,,-8694.04
+2024-06-17,TXN-1087,5400,Office Supplies,Payroll Run,9985.51,0.0,Operations,Approved,-9985.51
+2024-09-21,TXN-1137,1000,Cash And Bank,Bank Charges,14532.3,0.0,Finance,Pending Review,-14532.3
+2024-01-08,TXN-1004,1000,Cash And Bank,Bank Charges,11000.03,0.0,Operations,Pending Review,-11000.03
+2024-03-14,TXN-1038,5100,Rent Expense,Client Invoice Payment Received,8501.42,0.0,Sales,,-8501.42
+2024-11-26,TXN-1171,1000,Cash And Bank,Payroll Run,4916.54,0.0,Sales,Approved,-4916.54
+2024-04-18,TXN-1056,5200,Software Subscriptions,Office Supply Purchase,4036.03,0.0,Sales,Approved,-4036.03
+2024-03-25,TXN-1044,5100,Rent Expense,Google Ads Campaign,10256.87,0.0,Sales,Approved,-10256.87
+2024-01-12,TXN-1006,1100,Accounts Receivable,Consulting Fees Billed,12858.7,0.0,Sales,Approved,-12858.7
+2024-04-16,TXN-1055,5300,Marketing Expense,Office Supply Purchase,9012.69,0.0,Finance,Approved,-9012.69
+2024-05-24,TXN-1075,5100,Rent Expense,Bank Charges,10438.45,0.0,Admin,Pending Review,-10438.45
+2024-01-01,TXN-1000,1100,Accounts Receivable,Monthly Office Rent,570.16,0.0,Sales,Approved,-570.16
+2024-11-28,TXN-1172,2000,Accounts Payable,Client Invoice Payment Received,11430.85,0.0,Finance,Approved,-11430.85
+2024-09-17,TXN-1135,5200,Software Subscriptions,Client Invoice Payment Received,1193.57,0.0,Operations,Approved,-1193.57
+2024-09-02,TXN-1127,2000,Accounts Payable,Client Invoice Payment Received,8195.19,0.0,Operations,Approved,-8195.19
+2024-12-05,TXN-1176,2000,Accounts Payable,Bank Charges,10032.7,0.0,Admin,Approved,-10032.7
+2024-05-11,TXN-1068,4000,Revenue - Consulting,Client Invoice Payment Received,0.0,1708.14,Sales,Approved,1708.14
+2024-11-18,TXN-1167,4000,Revenue - Consulting,Retainer Fee - Q1,0.0,5644.0,Finance,Approved,5644.0
+2024-09-19,TXN-1136,5300,Marketing Expense,Consulting Fees Billed,1087.0,0.0,Operations,Pending Review,-1087.0
+2024-03-22,TXN-1042,1100,Accounts Receivable,Office Supply Purchase,5861.62,0.0,Sales,Approved,-5861.62
+2024-07-31,TXN-1110,1000,Cash And Bank,Office Supply Purchase,13503.85,0.0,Sales,Approved,-13503.85
+2024-06-20,TXN-1089,5100,Rent Expense,Tax Remittance,14151.61,0.0,Admin,Pending Review,-14151.61
+2024-05-19,TXN-1072,5400,Office Supplies,Payroll Run,9232.0,0.0,Finance,Approved,-9232.0
+2024-02-14,TXN-1023,5000,Salaries Expense,Consulting Fees Billed,6468.96,0.0,Operations,Approved,-6468.96
+2024-10-01,TXN-1142,5200,Software Subscriptions,Tax Remittance,5245.26,0.0,Operations,Approved,-5245.26
+2024-06-26,TXN-1092,5000,Salaries Expense,Retainer Fee - Q1,6243.0,0.0,Sales,Pending Review,-6243.0
+2024-07-17,TXN-1103,2000,Accounts Payable,Office Supply Purchase,7530.86,0.0,Sales,Approved,-7530.86
+2024-10-18,TXN-1151,5000,Salaries Expense,Bank Charges,3479.27,0.0,Operations,Approved,-3479.27
+2024-05-09,TXN-1067,4100,Revenue - Retainer,Client Invoice Payment Received,0.0,1799.86,Operations,,1799.86
+2024-02-18,TXN-1025,4100,Revenue - Retainer,Consulting Fees Billed,0.0,7046.9,Operations,Approved,7046.9
+2024-12-03,TXN-1175,5400,Office Supplies,Consulting Fees Billed,3780.68,0.0,Sales,Approved,-3780.68
