@@ -1,7 +1,6 @@
 # Automated Financial ETL & Executive Dashboard
 
-**Portfolio Project 1 — Arun Prabakar Vadaseri Rajendran**
-MABA, Technology Innovation Management · Carleton University
+**Arun Prabakar Vadaseri Rajendran**
 
 ---
 

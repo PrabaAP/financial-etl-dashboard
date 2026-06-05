@@ -590,6 +590,6 @@ with col6:
 st.divider()
 st.caption(
     "Portfolio project — **Arun Prabakar Vadaseri Rajendran** · "
-    "MABA, Carleton University · "
+    ""
     "linkedin.com/in/arun-prabakar-vadaseri-rajendran"
 )

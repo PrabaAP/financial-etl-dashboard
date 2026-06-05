@@ -194,5 +194,5 @@ A ranked table of clients who owe money, from highest to lowest. This is a colle
 
 ## About This Project
 
-Built by **Arun Prabakar Vadaseri Rajendran** as Portfolio Project 1.
+Built by **Arun Prabakar Vadaseri Rajendran**.
 [LinkedIn](https://linkedin.com/in/arun-prabakar-vadaseri-rajendran) · [GitHub Repo](https://github.com/PrabaAP/financial-etl-dashboard) · [Live Dashboard](https://financial-etl-dashboard-jqswq7afq4twh76mfgzsbm.streamlit.app)
