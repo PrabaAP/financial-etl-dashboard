@@ -109,10 +109,13 @@ Project1_Financial_ETL_Dashboard/
 
 ---
 
-## About
+## About the Author
 
-Built by **Arun Prabakar Vadaseri Rajendran**
-- 6 years SME advisory, 80+ business clients
-- Power BI dashboards for financial clients (Tally + Excel sources)
-- IBM Applied Data Science | Google AI Essentials
-- [LinkedIn](https://linkedin.com/in/arun-prabakar-vadaseri-rajendran)
+**Arun Prabakar Vadaseri Rajendran**  
+Ottawa, Ontario, Canada
+
+Finance and operations professional with six years of SME advisory experience across 80+ business clients. Previously ran ATE Associates, a Chennai-based finance, compliance, and operational risk advisory firm, where he led a 7-person team, built Power BI dashboards for SME clients, and handled compliance work across 80+ businesses. Before that, worked as an Audit Assistant at S Senthil and Co (Chartered Accountants), covering audit, tax, and internal controls across SME and public sector clients.
+
+Certified in Generative AI Leadership (Google Cloud), Applied Data Science (IBM), Python for Data Science (IBM), Data Analysis with Python (IBM), Google Prompting Essentials, Google AI Essentials, GitHub Copilot (Microsoft), and Google Agile Project Management.
+
+[LinkedIn](https://www.linkedin.com/in/arun-prabakar-vadaseri-rajendran) | [GitHub](https://github.com/PrabaAP)
